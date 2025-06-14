@@ -10,4 +10,5 @@ class ListsController < ApplicationController
 
   def edit
   end
+  
 end
